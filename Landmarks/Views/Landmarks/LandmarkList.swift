@@ -39,7 +39,6 @@ struct LandmarkList: View {
     }
 }
 
-
 #Preview {
     LandmarkList()
 }
