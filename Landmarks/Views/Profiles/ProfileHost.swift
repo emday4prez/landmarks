@@ -18,7 +18,7 @@ struct ProfileHost: View {
                 Spacer()
                 EditButton()
             }
-            ProfileSummary(profile: draftProfile)
+            ProfileSummary(profile: modelData.profile)
         }
         .padding()
     }
