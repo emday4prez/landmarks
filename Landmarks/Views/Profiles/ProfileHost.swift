@@ -2,7 +2,7 @@
 //  ProfileHost.swift
 //  Landmarks
 //
-//  Created by Emerson Day on 3/27/25.
+
 //
 
 import SwiftUI
