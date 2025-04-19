@@ -1,8 +1,5 @@
-//
 //  CircleImage.swift
 //  Landmarks
-//
-
 
 import SwiftUI
 
